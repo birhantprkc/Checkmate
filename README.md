@@ -212,7 +212,7 @@ Feel free to ask questions or share your ideas - we'd love to hear from you!
 <a id="contributing"></a>
 ## Contributing
 
-We are [Alex](http://github.com/ajhollid) (team lead), [Gorkem](http://github.com/gorkem-bwl/), [Aryaman](https://github.com/Br0wnHammer) and [Mert](https://github.com/mertssmnoglu) helping individuals and businesses monitor their infra and servers.
+We are [Alex](http://github.com/ajhollid) (team lead), [Gorkem](http://github.com/gorkem-bwl/), [Aryaman](https://github.com/Br0wnHammer), [Malena](https://github.com/malenacaroline) and [Mert](https://github.com/mertssmnoglu) helping individuals and businesses monitor their infra and servers.
 
 We pride ourselves on building strong connections with contributors at every level. Despite being a young project, Checkmate has already earned almost 11K+ stars and attracted 150+ contributors from around the globe.
 
